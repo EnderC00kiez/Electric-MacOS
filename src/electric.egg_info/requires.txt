@@ -1,0 +1,13 @@
+click
+progress
+requests
+keyboard
+colorama
+aiothrottle
+click_didyoumean
+wheel
+virustotal-api
+switch
+click_didyoumean
+click_completion
+pyperclip
